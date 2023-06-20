@@ -1,0 +1,8 @@
+# Functions for the task app
+# add-task, remove-task, mark-complete-task and remove, edit-Task, log-of completed tasks
+# a get/search function that looks for the task that the user is wanting to edit/remove/mark
+
+# The data structure could be a list of the task-objects,
+# - create a list object (id, status, title, content)
+
+# add in a gui option once functional components are done
